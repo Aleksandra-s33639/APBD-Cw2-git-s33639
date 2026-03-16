@@ -5,3 +5,9 @@
 Console.WriteLine("Another text - Test 2");
 
 // :)
+
+double CalculateAverage(int[] wartosci)
+{
+    return wartosci.Average();
+}
+
