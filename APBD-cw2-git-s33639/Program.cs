@@ -3,3 +3,5 @@
 //A comment for the test
 
 Console.WriteLine("Another text - Test 2");
+
+// :)
