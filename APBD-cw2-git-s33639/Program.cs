@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Test 1");
+﻿Console.WriteLine("Test 1 - nowy");
 
 //A comment for the test
 
