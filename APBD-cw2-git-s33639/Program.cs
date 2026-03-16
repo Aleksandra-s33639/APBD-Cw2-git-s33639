@@ -15,3 +15,5 @@ static int CalculateMax(int[] values)
 {
     return values.Max();
 }
+
+//New komentarz :)
