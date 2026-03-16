@@ -17,3 +17,9 @@ static int CalculateMax(int[] values)
 }
 
 //New komentarz :)
+
+static int CalculateMin(int[] values)
+{
+    return values.Min();
+}
+
