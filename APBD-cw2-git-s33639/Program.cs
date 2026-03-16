@@ -11,3 +11,7 @@ double CalculateAverage(int[] wartosci)
     return wartosci.Average();
 }
 
+static int CalculateMax(int[] values)
+{
+    return values.Max();
+}
